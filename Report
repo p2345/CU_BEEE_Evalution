@@ -1,0 +1,24 @@
+Experiment 1- Design a system for LPG gas burners such that, whenever it is turned on, a green LED starts blinking and if it stays on for more than 2000 ms, instead of the green LED, a Red LED starts blinking.
+Circuit Diagram:
+
+
+Theory-
+1. Concepts Used: 
+Working of Arduino UNO 
+Coding in Arduino IDE and syntax of the same
+Working of LEDs (Light emitting diodes) and gas detector
+Making connections on a Breadboard.
+
+2. Learning & Observations: 
+Use of Arduino board and coding in Arduino IDE: Arduino board is very systematical way to show how the circuit is working. Coding syntax is this is  similar to the coding in C language which we already know. I learnt the  importance of delay function as the micro-controller is  fast and capable.
+I observed that there are many other interesting functions we can perform with Arduino like blinking of LED with Gas detector.
+
+3. Problems & Troubleshooting-
+I encountered a problem  in making connections on the breadboard and while uploading the code and I rectified by retrying and removing all the errors.
+4. Precautions-
+Remember to declare all the ports in use in digital input/output in the right way.
+Check whether all your wire connections are correct and tight.
+Delay gap should be correct for testing the program .
+
+5. Learning Outcomes-
+Skills that I have acquired are  knowledge of how to use Arduino UNO with components like LDR to make systems like automatic night lighting
